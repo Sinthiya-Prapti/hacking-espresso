@@ -2,7 +2,7 @@
 
 This project discloses a "vulnerability", or more accurately, a security risk, in the GraalVM Espresso JDK.
 
-By abusing the Continuation API in the GraalVM Espresso JDK, it's possible to construct a specific gadget and achieve RCE while relying solely on the JDK library itself.
+By abusing the Continuation API in the GraalVM Espresso JDK, it's possible to construct a specific gadget and achieve RCE while only relying on the JDK library itself.
 
 This gadget works on all Espresso JDKs that support the Continuation API (currently, the latest version is also exploitable)
 
